@@ -93,7 +93,7 @@ function App() {//kök birleşen App tir
   {
     baslik: "C++",
     url: "wwww.google.com.tr",
-    yazar: "Ali Veli",
+    yazar: "Ali Aslan",
     yorum_sayisi: 11,
     puan: 22,
     id: 4,
